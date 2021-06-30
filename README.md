@@ -1,1 +1,2 @@
 # Design-battery-charger-circuit
+In this task, we designed the battery charging circuit, but before choosing the type of battery, we must first calculate the loads we have, we have 150 mA for each motor and 50 mA for the Arduino, so the total output becomes 350 mA, so we chose  9-volt DURACELL battery and it gives 400 mAh, and we chose the operating time to be an hour, as this battery is the most available battery that can operate and move the tires for 1 hour.
